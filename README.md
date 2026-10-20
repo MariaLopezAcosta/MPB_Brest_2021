@@ -7,4 +7,23 @@ María López-Acosta<sup>1,2*</sup>, Jacques Grall<sup>3</sup>, Beatriz Beker<su
 
 *Correspondence: María López-Acosta, lopezacosta@iim.csic.es <p>
 
-> **Status: this manuscript is currently under peer review.** The analysis and the figures produced by this repository may still change in response to the review process. Please check back for the final version before relying on these resultss.
+> **Status: this manuscript is currently under peer review.** The analysis and the figures produced by this repository may still change in response to the review process. Please check back for the final version before relying on these results.
+
+
+### **Overview:**
+This repository holds the code that reproduces the results ...
+
+
+### **Data:**
+The data that support the findings of this study are archived at digital.CSIC and is **not distributed here**:
+(link)
+
+
+### **Citation:**
+If you use this code or the data, please cite the origial work.
+
+**Paper (under review):**
+> López-Acosta, M., Grall, J., Beker, B., Pérez, F. F., and Leynaert, A. (2026). Bottom dredging reduces benthic diatom biomass and disrupts silicon cycling in maerl beds, _under review_.
+
+**Dataset:**
+> López-Acosta, M., Grall, J., Beker, B., Pérez, F. F., and Leynaert, A. (2026). Dataset of "Bottom dredging reduces benthic diatom biomass and disrupts silicon cycling in maerl beds".
